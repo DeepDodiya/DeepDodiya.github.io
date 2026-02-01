@@ -1,0 +1,5 @@
+{
+  "name": "TradeTitan - Stock Market Assistant",
+  "description": "A digital assistant for physical stock market board games. Automates calculations, enforces rules, and tracks portfolios.",
+  "requestFramePermissions": []
+}
